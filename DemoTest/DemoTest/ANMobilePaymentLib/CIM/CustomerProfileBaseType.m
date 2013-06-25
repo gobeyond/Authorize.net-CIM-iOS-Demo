@@ -2,7 +2,7 @@
 //  CustomerProfileBaseType.m
 //  ANMobilePaymentLib
 //
-//  Created by BesproutTech on 6/20/13.
+//  Created by beyond92@gmail.com on 6/20/13.
 //
 //
 

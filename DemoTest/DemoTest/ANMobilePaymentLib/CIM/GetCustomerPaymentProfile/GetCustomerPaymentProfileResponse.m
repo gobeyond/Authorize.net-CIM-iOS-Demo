@@ -37,7 +37,7 @@
 						"anetApiResponse = %@\n"
                         "PaymentProfileType = %@\n",
 						self.anetApiResponse,
-                        (slef.paymentProfileType?[self.paymentProfileType description]:@"")];
+                        (self.paymentProfileType?[self.paymentProfileType description]:@"")];
 	return output;
 }
 

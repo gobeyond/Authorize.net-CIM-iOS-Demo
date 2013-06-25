@@ -2,7 +2,7 @@
 //  ValidationModes.h
 //  ANMobilePaymentLib
 //
-//  Created by BesproutTech on 6/25/13.
+//  Created by beyond92@gmail.com on 6/25/13.
 //
 //
 

@@ -2,8 +2,8 @@
 //  AppDelegate.h
 //  DemoTest
 //
-//  Created by BesproutTech on 6/18/13.
-//  Copyright (c) 2013 BesproutTech. All rights reserved.
+//  Created by beyond92@gmail.com on 6/18/13.
+//  Copyright (c) 2013 beyond92@gmail.com. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
