@@ -39,8 +39,8 @@
 
 - (void) loginToGateway {
     MobileDeviceLoginRequest *mobileDeviceLoginRequest = [MobileDeviceLoginRequest mobileDeviceLoginRequest];
-    mobileDeviceLoginRequest.anetApiRequest.merchantAuthentication.name = @"beyond92"; 
-    mobileDeviceLoginRequest.anetApiRequest.merchantAuthentication.password = @"Wqh034594"; 
+    mobileDeviceLoginRequest.anetApiRequest.merchantAuthentication.name = @""; 
+    mobileDeviceLoginRequest.anetApiRequest.merchantAuthentication.password = @""; 
     mobileDeviceLoginRequest.anetApiRequest.merchantAuthentication.mobileDeviceId = [OpenUDID value];
     
     [AuthNet authNetWithEnvironment:ENV_TEST];
