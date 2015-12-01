@@ -1,2 +1,2 @@
 # CIM Authorize.net 
-authorize.net Customer Information Manager (CIM) IOS
+Authorize.net Customer Information Manager (CIM) IOS
